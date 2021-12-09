@@ -20,7 +20,30 @@
   <//qiita.com/skosaka1211">
     <img height="20" src="https://qiita-badge.apiapi.app/s/skosaka1211/contributions.svg" />
   </a>
-  
+    <!-- Like のバッジ -->
+  <a href="https://zenn.dev/skosaka1211">
+    <img src="https://zenn.badge.nikaera.com/s/skosaka1211/likes?style=flat" alt="skosaka1211 likes" />
+  </a>
+
+  <!-- Articles のバッジ -->
+  <a href="https://zenn.dev/skosaka1211/articles">
+    <img src="https://zenn.badge.nikaera.com/s/skosaka1211/articles?style=flat" alt="skosaka1211 articles" />
+  </a>
+
+  <!-- Followers のバッジ -->
+  <a href="https://zenn.dev/skosaka1211/followers">
+    <img src="https://zenn.badge.nikaera.com/s/skosaka1211/followers?style=flat" alt="skosaka1211 followers" />
+  </a>
+
+  <!-- Books のバッジ -->
+  <a href="https://zenn.dev/skosaka1211/books">
+    <img src="https://zenn.badge.nikaera.com/s/skosaka1211/books?style=flat" alt="skosaka1211 books" />
+  </a>
+
+  <!-- Scraps のバッジ -->
+  <a href="https://zenn.dev/skosaka1211/scraps">
+    <img src="https://zenn.badge.nikaera.com/s/skosaka1211/scraps?style=flat" alt="skosaka1211 scraps" />
+  </a>
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
