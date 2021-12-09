@@ -1,6 +1,6 @@
 <p align="left"> 
-  <a href="https://github.com/yutkat/skosaka1211/">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="skosaka1211" />
+  <a href="https://github.com/skosaka1211/skosaka1211/">
+    <img src="https://komarev.com/ghpvc/?username=skosaka1211" alt="skosaka1211" />
   </a>
   <a href="http://twitter.com/skosaka1211">
     <img height="20" src="https://img.shields.io/twitter/follow/skosaka1211?label=Twitter&logo=twitter&style=flat" />
