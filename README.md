@@ -12,7 +12,7 @@
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/skosaka1211?label=Reddit&logo=reddit&style=flat" />
   </a>
   <a href="https://stackoverflow.com/users/story/15319420">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/15319420?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
   <a href="http://qiita.com/skosaka1211">
     <img height="20" src="https://qiita-badge.apiapi.app/s/skosaka1211/posts.svg" />
