@@ -20,9 +20,18 @@
   <//qiita.com/skosaka1211">
     <img height="20" src="https://qiita-badge.apiapi.app/s/skosaka1211/contributions.svg" />
   </a>
+  
 </p>
 
   [![skosaka1211's GitHub stats](https://github-readme-stats.vercel.app/api?username=skosaka1211)](https://github.com/skosaka1211/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skosaka1211&layout=compact)](https://github.com/skosaka1211/github-readme-stats)
   [![trophy](https://github-profile-trophy.vercel.app/?username=skosaka1211)](https://github.com/skosaka1211/github-profile-trophy)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skosaka1211&theme=vue)
+
+    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=tetsuzawa&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetsuzawa&hide=jupyter%20notebook,shaderlab,tex,c%23&langs_count=9" />
+</a>
