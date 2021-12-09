@@ -22,28 +22,28 @@
   </a>
   
   <!-- Like のバッジ -->
-  <a href="https://zenn.dev/skosaka1211">
-    <img src="https://zenn.badge.nikaera.com/s/skosaka1211/likes?style=flat" alt="skosaka1211 likes" />
+  <a href="https://zenn.dev/skosaka">
+    <img src="https://zenn.badge.nikaera.com/s/skosaka/likes?style=flat" alt="skosaka likes" />
   </a>
 
   <!-- Articles のバッジ -->
-  <a href="https://zenn.dev/skosaka1211/articles">
-    <img src="https://zenn.badge.nikaera.com/s/skosaka1211/articles?style=flat" alt="skosaka1211 articles" />
+  <a href="https://zenn.dev/skosaka/articles">
+    <img src="https://zenn.badge.nikaera.com/s/skosaka/articles?style=flat" alt="skosaka articles" />
   </a>
 
   <!-- Followers のバッジ -->
-  <a href="https://zenn.dev/skosaka1211/followers">
-    <img src="https://zenn.badge.nikaera.com/s/skosaka1211/followers?style=flat" alt="skosaka1211 followers" />
+  <a href="https://zenn.dev/skosaka/followers">
+    <img src="https://zenn.badge.nikaera.com/s/skosaka/followers?style=flat" alt="skosaka followers" />
   </a>
 
   <!-- Books のバッジ -->
-  <a href="https://zenn.dev/skosaka1211/books">
-    <img src="https://zenn.badge.nikaera.com/s/skosaka1211/books?style=flat" alt="skosaka1211 books" />
+  <a href="https://zenn.dev/skosaka/books">
+    <img src="https://zenn.badge.nikaera.com/s/skosaka/books?style=flat" alt="skosaka books" />
   </a>
 
   <!-- Scraps のバッジ -->
-  <a href="https://zenn.dev/skosaka1211/scraps">
-    <img src="https://zenn.badge.nikaera.com/s/skosaka1211/scraps?style=flat" alt="skosaka1211 scraps" />
+  <a href="https://zenn.dev/skosaka/scraps">
+    <img src="https://zenn.badge.nikaera.com/s/skosaka/scraps?style=flat" alt="skosaka scraps" />
   </a>
 </p>
 
