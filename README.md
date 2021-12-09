@@ -23,5 +23,6 @@
 </p>
 
   [![skosaka1211's GitHub stats](https://github-readme-stats.vercel.app/api?username=skosaka1211)](https://github.com/skosaka1211/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skosaka1211&layout=compact)](https://github.com/skosaka1211/github-readme-stats)
   [![trophy](https://github-profile-trophy.vercel.app/?username=skosaka1211)](https://github.com/skosaka1211/github-profile-trophy)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skosaka1211&theme=vue)
