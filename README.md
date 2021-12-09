@@ -27,7 +27,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=skosaka1211&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skosaka1211" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skosaka1211&count_private=true" />
 </a>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=skosaka1211)](https://github.com/skosaka1211/github-profile-trophy)
